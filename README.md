@@ -1,70 +1,73 @@
 <!-- Profile Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=NadeemalTM&style=flat-square&color=brightgreen)
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+T.M.+Gayantha+Nadeemal;A+Passionate+Software+Developer;Always+Learning+%26+Building!)](https://git.io/typing-svg)
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F707&center=true&vCenter=true&width=1000&lines=Hey+There!+👋;I'm+T.M.+Gayantha+Nadeemal;A+Passionate+Developer+%7C+Tech+Enthusiast;Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
+
+---
+
+<!-- Banner or GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
 ---
 
 # 💫 About Me
-- 🔭 I’m currently working on **Java projects** & **Web Development**
-- 🌱 Exploring **React | Node.js | MongoDB**
-- 👯 Open to collaborating on **Open-Source projects**
-- 💬 Ask me about **Java | Web Dev | Problem Solving**
-- ⚡ Fun fact: *Coding is my daily therapy!*
+🌱 Exploring **AI | Web Development | Full-stack projects**  
+💻 Writing clean & scalable code in **Java, React, Node.js**  
+🎯 Mission: *To blend creativity with logic to build awesome apps*  
+⚡ Fun fact: *I debug with snacks 🍫 and music 🎶*  
 
 ---
 
-# 🌐 Connect With Me
+# 🎨 Tech Stack
 <p align="center">
-<a href="https://www.linkedin.com/in/gayantha-n-muhandiram-366740255">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/profile.php?id=100006815147242">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="https://maps.app.goo.gl/yJC7DS9GzsU47k357">
-<img src="https://img.shields.io/badge/Location-FF0000?style=for-the-badge&logo=google-maps&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mongodb,html,css,tailwind,git,github,cpp,python,vscode,figma" />
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 🔥 GitHub Stats & Streak
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,mongodb,git,github,vscode,cpp,python" />
-</p>
-
----
-
-# 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NadeemalTM&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com?user=NadeemalTM&theme=radical" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NadeemalTM&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=NadeemalTM&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
 # 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NadeemalTM&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NadeemalTM&theme=onedark&no-frame=true&no-bg=true&margin-w=5"/>
 </p>
 
 ---
 
-# 🔥 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NadeemalTM&theme=radical)
+# 📈 Contribution Heatmap
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NadeemalTM&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-# ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-<!-- 🐍 Snake animation (will work after Step 3 below) -->
+# 🐍 Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NadeemalTM/NadeemalTM/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/NadeemalTM/NadeemalTM/output/snake.svg" alt="Snake animation"/>
 </p>
 
-✨ *Thanks for visiting my profile!* ✨
+---
+
+# 🎧 Now Playing on Spotify
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31evl6hvwfnrb4k2ecskgb33w7dy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" />
+</p>
+
+---
+
+# ⏱️ Weekly Development Breakdown
+<!-- WakaTime Stats -->
+<!-- (Requires WakaTime setup & API key) -->
+```txt
+Java        ██████████░░░░░░░░░░░  42%
+JavaScript  ██████░░░░░░░░░░░░░░░  26%
+HTML/CSS    ████░░░░░░░░░░░░░░░░░  14%
+Python      ██░░░░░░░░░░░░░░░░░░░   8%
+Other       ██░░░░░░░░░░░░░░░░░░░  10%
